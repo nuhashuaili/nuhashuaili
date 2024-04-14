@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuhashuaili
 - 👀 I’m interested in python coding and data science
-- 🌱 I’m currently learning python and looking to work in the data science field
+- 🌱 I’m currently learning more about databases and want to learn more about machine learning
 
 
 <!---
